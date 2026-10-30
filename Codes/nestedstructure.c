@@ -13,9 +13,9 @@ struct student {
 };
 int main() {
     struct student s1;
-    s1.id = 11259419;
-    strcpy(s1.name, "V.Bharadwaj");
-    s1.cgpa = 7.83;
+    s1.id = 11259A420;
+    strcpy(s1.name, "V.Sree Lekha");
+    s1.cgpa = 9.25;
     strcpy(s1.addr.city, "Chennai");
     strcpy(s1.addr.state, "Tamil Nadu");
     s1.addr.pincode = 600001;
